@@ -1,14 +1,7 @@
-# Hi there, I'm Hang Dinh 👋
+### Hi there, I'm Dinhthi Hangcobl 👋
 
-```javascript
-const developer = {
-  name: "Hang Dinh",
-  role: "Software Developer",
-  focus: ["Web Architecture", "Cloud Automation", "Full-Stack Applications"],
-  tools: ["JavaScript", "TypeScript", "Python", "Docker", "Git"]
-};
-```
-
-### ⚡ Highlights
-- 🔭 Working on automation workflows and developer utilities
-- 🌱 Exploring modern edge runtimes and distributed cloud architecture
+- 🔭 **Current Focus:** Curious mind passionate about distributed computing and distributed key-value stores.
+- 🏢 **Organization:** Synthetix Software
+- 📍 **Location:** Sydney, Australia
+- 💬 Ask me about: Web Development, Cloud Architecture, Automation & Open Source
+- ⚡ Fun fact: Passionate about continuous learning and developer tooling.
