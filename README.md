@@ -1,7 +1,13 @@
-### Hi there, I'm Dinhthi Hangcobl 👋
+# Hi there, I'm Thi Hang Dinh 👋
 
-- 🔭 **Current Focus:** Curious mind passionate about distributed computing and distributed key-value stores.
-- 🏢 **Organization:** Synthetix Software
-- 📍 **Location:** Sydney, Australia
-- 💬 Ask me about: Web Development, Cloud Architecture, Automation & Open Source
-- ⚡ Fun fact: Passionate about continuous learning and developer tooling.
+Frontend Engineer | React & TypeScript
+
+📍 Based in **Hanoi, Vietnam**
+
+### 💻 Tech Stack & Interests
+- 🌐 Web Technologies: JavaScript, TypeScript, HTML5, CSS3
+- 🛠️ Tools & Environments: Git, Cloudflare, Linux, VS Code
+- 📚 Continuous Learner | Open-source enthusiast
+
+---
+*Self-taught developer building clean, high-performance web applications.*
